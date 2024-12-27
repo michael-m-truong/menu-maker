@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+  }
+  
+  th {
+    position: relative;
+    cursor: col-resize;
+    user-select: none;
+  }
+  
+  
+  
